@@ -1,0 +1,5 @@
+Thompson    2/27/2000  4747.08
+vonNeumann  2/12/1994  4732.35
+vonNeumann  1/11/1999  4409.74
+Hoare       8/18/1992  4381.21
+vonNeumann  3/26/2002  4121.85
